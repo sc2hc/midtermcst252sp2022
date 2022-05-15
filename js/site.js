@@ -1,5 +1,7 @@
 // @authors Henry Chan, Douglas Pattison, Elias Salas
 // Learned and source code from Wes and Webdevsimplified
+// links https://wmodes.github.io/cst252/midterm/index.html
+// https://www.youtube.com/watch?v=R1S_NhKkvGA&ab_channel=WebDevSimplified
 
 //The meat
 const dungeoncrawl = [
