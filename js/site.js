@@ -62,7 +62,7 @@ const dungeoncrawl = [
       {
         id:4,
         description:"Hello there, the voice comes out of nowhere. You now realize the room you are in are filled with multiple different holes.",
-        img:'img/sitelogo2.png',
+        img:'img/holes.png',
         choice:[
           {
             text:'Ignore the voice and run out of the room',
